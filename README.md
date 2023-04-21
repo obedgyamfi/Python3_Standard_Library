@@ -6,8 +6,7 @@ This repository presents selected examples demonstrating how to use the most com
 
 The audience for this consist of intermediate-level Python programmers
 
-This supplements the comprehensive reference guide (available at http://docs
-.python.org), providing fully functional example programs to demonstrate the features
+This supplements the comprehensive reference guide (available at http://docs.python.org), providing fully functional example programs to demonstrate the features
 described there. The modules are grouped into chapters to make it easy to ﬁnd an indi-
 vidual module for reference and browse by subject for more leisurely exploration. 
 
